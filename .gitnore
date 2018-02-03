@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+platforms
+plugins
+www/javascripts/bundle.js
+www/javascripts/bundle.js.map
+www/data
