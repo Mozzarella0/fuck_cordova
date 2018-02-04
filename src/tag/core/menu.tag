@@ -13,10 +13,10 @@
     </div>
   </div> -->
   <div>
-    <a href="/">home</a>
-    <a href="/catch">catch</a>
-    <a href="/develop">develop</a>
-    <a href="/record">record</a>
+    <a href="#home">home</a>
+    <a href="#catch">catch</a>
+    <a href="#develop">develop</a>
+    <a href="#record">record</a>
   </div>
   <script>
 
