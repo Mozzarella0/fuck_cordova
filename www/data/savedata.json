@@ -1,0 +1,13 @@
+{
+  "username" : "ユーザーネーム",
+  "scoreAll" : "0",
+  "scoreUse" : "0",
+  "haveMachine" : {
+    "system-infrastructure-0" : 0
+  },
+  "haveInsect" : {
+    "manganese-ant" : 1,
+    "mini-bulb-firefly" : 1
+  }
+
+}

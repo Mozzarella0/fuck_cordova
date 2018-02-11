@@ -1,23 +1,17 @@
 <menu>
   <!-- <div class="menuBack">
     <div class="menuBtns">
-      <div class="menuBtn catch" onclick="{ go.bind(this, 'catch') }">
+      <a class="menuBtn" href="#catch">
         <img class="menuIcon" src="./data/img/catch.png"/>
-      </div>
-      <div class="menuBtn" onclick="{ go.bind(this, 'develop') }">
+      </a>
+      <a class="menuBtn" href="#develop">
         <img class="menuIcon" src="./data/img/develop.png"/>
-      </div>
-      <div class="menuBtn" onclick="{ go.bind(this, 'record') }">
+      </a>
+      <a class="menuBtn" href="#record">
         <img class="menuIcon" src="./data/img/record.png"/>
-      </div>
+      </a>
     </div>
   </div> -->
-  <div>
-    <a href="#home">home</a>
-    <a href="#catch">catch</a>
-    <a href="#develop">develop</a>
-    <a href="#record">record</a>
-  </div>
   <script>
 
     // this.go = (content, e) => {

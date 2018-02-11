@@ -1,0 +1,85 @@
+{
+  "wood" : {
+    "bread-leaves" : {
+      "name" : "広葉",
+      "detail" : "広葉樹の葉。熱帯、温帯に多く自生する樹木であるため食べる虫を選ぶ様だ。",
+      "img" : "./data/img/feed/bread-leaves.png"
+    },
+    "needle-leaves" : {
+      "name" : "針葉",
+      "detail" : "針葉樹の葉。寒帯、亜寒帯に多く自生する樹木であるため食べる虫を選ぶ様だ。",
+      "img" : "./data/img/feed/needle-leaves.png"
+    },
+    "fern-leaves" : {
+      "name" : "シダ",
+      "detail" : "シダ植物の葉。独特な形をしており、古くから存在する植物の一つ。",
+      "img" : "./data/img/feed/fern-leaves.png"
+    },
+    "honey" : {
+      "name" : "花蜜",
+      "detail" : "花の蜜。文字通り甘く、好む虫も多い。主食にする虫も中にはいるだろう。",
+      "img" : "./data/img/feed/honey.png"
+    },
+    "sap" : {
+      "name" : "樹液",
+      "detail" : "樹木に含まれる液。樹液にも様々な物もあるが、これは甘く虫が好む物の様だ。",
+      "img" : "./data/img/feed/sap.png"
+    }
+  },
+  "flesh" : {
+    "worm" : {
+      "name" : "ワーム",
+      "detail" : "釣りの餌などにも用いられる幼虫。肉食の虫が主食としてよく食べる。",
+      "img" : "./data/img/feed/worm.png"
+    },
+    "fly" : {
+      "name" : "ハエ",
+      "detail" : "空を飛ぶ一般的なハエ。飛ぶ物を捕まえる能力のある虫しか食べる事が出来ない様だ。",
+      "img" : "./data/img/feed/fly.png"
+    },
+    "meat" : {
+      "name" : "食肉",
+      "detail" : "人間も食べる食用肉。鳥獣の肉であり、小さなブロック状に切り分けられており虫も食べられる。",
+      "img" : "./data/img/feed/meat.png"
+    },
+    "fish" : {
+      "name" : "魚肉",
+      "detail" : "魚類の食肉。小さなブロック状に切り分けられており虫も食べられる。",
+      "img" : "./data/img/feed/fish.png"
+    },
+  },
+  "vegetables" : {
+    "petal" : {
+      "name" : "花弁",
+      "detail" : "新鮮な花びら。葉より柔らかく、虫にとっても食べやすいのだろうか。",
+      "img" : "./data/img/feed/petal.png"
+    },
+    "vegetable" : {
+      "name" : "野菜",
+      "detail" : "根菜や葉物などの一般的な野菜。草食の虫に向いている。",
+      "img" : "./data/img/feed/vegetable.png"
+    },
+    "fruit" : {
+      "name" : "果実",
+      "detail" : "植物が付ける実。甘い物が多く好む虫も多い。",
+      "img" : "./data/img/feed/fruit.png"
+    }
+  },
+  "man-made" : {
+    "meat-diet" : {
+      "name" : "肉食用フード",
+      "detail" : "肉食の虫向けに作られた専用のフード。肉食の虫に汎用的に与える事が出来る。",
+      "img" : "./data/img/feed/meat-diet.png"
+    },
+    "harbivory" : {
+      "name" : "草食用フード",
+      "detail" : "草食の虫向けに作られた専用のフード。草食の虫に汎用的に与える事が出来る。",
+      "img" : "./data/img/feed/harbivory.png"
+    },
+    "omnivores" : {
+      "name" : "雑食用フード",
+      "detail" : "雑食の虫向けに作られた専用のフード。雑食の虫に汎用的に与える事が出来る。",
+      "img" : "./data/img/feed/omnivores.png"
+    }
+  }
+}

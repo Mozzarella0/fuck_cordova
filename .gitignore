@@ -4,4 +4,4 @@ platforms
 plugins
 www/javascripts/bundle.js
 www/javascripts/bundle.js.map
-www/data
+www/data/img
